@@ -29,7 +29,7 @@ TICKERS = [
     "LINK-USD", "PA=F", "AEP", "MTUM", "PANW", "CP", "RNDR-USD", "ETN",
     "JASMY-USD", "PGR", "068270.KS", "ORLY", "TQQQ", "XLK", "051910.KS",
     "035720.KS", "005930.KS", "GC=F", "ROP", "035420.KS", "XLI", "SOXL",
-    "SI=F"
+    "SI=F",'DOGE-USD'
 ]
 
 START_DATE = "2000-01-01"
